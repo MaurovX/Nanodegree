@@ -1,6 +1,3 @@
-# Nanodegree
-This will be repository used for deliverables of the Data science Nanodegree
-
 ### Table of Contents
 
 1. [Installation](#installation)
