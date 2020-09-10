@@ -1,17 +1,18 @@
 # Nanodegree
 This will be repository used for deliverables of the Data science Nanodegree
 
-## Table Of Contents
-  1. Installation
-  2. Project Motivation
-  3. File Descriptions
-  4. Results
-  5. Licensing, Authors, Acknowledgements
+### Table of Contents
+
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
  
- ## Installation
+ ## Installation <a name="installation"></a>
  There are no necessary libraries to be added aside from the Anaconda distribution for Python. Code is written and should be used in Python3
  
- ## Project Motivation
+ ## Project Motivation <a name="motivation"></a>
  
  As a part of the Data Science Nanodegree in Udacity, we are required to develop a small project using public data, I decided to use the GiveMeSomeCredit dataset given my current role in the organization financing my studies. The main question to tackle honestly was how do I rank among the best in the world at using this dataset. But for the purposes of the Nanodegree we are tasked to attack 3 bussiness questions:
  
@@ -21,5 +22,13 @@ This will be repository used for deliverables of the Data science Nanodegree
 
 The full set of files related to this repo are public and free of use. 
 
-## File Descriptions
+## File Descriptions <a name="files"></a>
 There are 2 notebooks available here to showcase work related to the above questions, the first notebook is an EDA of the dataset, we seek to understand the dataset and to plot our insights. After that the Second notebook aims at answering the main question, what makes a borrower good or bad, and how can someone under this model improve their standing.
+
+## Results<a name="results"></a>
+
+The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
