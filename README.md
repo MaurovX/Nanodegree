@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Table of Contents
 
 1. [Installation](#installation)
@@ -29,3 +30,7 @@ The main findings of the code can be found at the post available [here](https://
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to Kaggle for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/c/GiveMeSomeCredit/overview).  Otherwise, feel free to use the code here as you would like! 
+=======
+# Nanodegree-Credit_Default
+This will be repository used for deliverables of the Data science Nanodegree
+>>>>>>> bed434469e230ccb1a0d96f56eca4a7247b5f6bd
